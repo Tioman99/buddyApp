@@ -1,0 +1,6 @@
+module Pods_xCodeApp {
+  umbrella header "Pods-xCodeApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
